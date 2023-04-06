@@ -12,3 +12,4 @@ printgrid_left.c :
 
 prnts the numbers in left formatting 
 
+![image](https://user-images.githubusercontent.com/124582454/230289554-3ea6edf5-229b-4d2d-adc5-39e08dfa3a49.png)
